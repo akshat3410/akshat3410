@@ -3,7 +3,7 @@ GitHub Profile README Generator
 Star this repo19712
 Fork on GitHub5920
 <h1 align="center">Hi 👋, I'm Akshat Soni</h1>
-<h3 align="center">A passionate Programmer from currently learning Backend.</h3>
+<h3 align="center">A passionate Programmer from India currently learning Backend.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
