@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo19712
-Fork on GitHub5920
 <h1 align="center">Hi 👋, I'm Akshat Soni</h1>
 <h3 align="center">A passionate backend learner from India.</h3>
 
