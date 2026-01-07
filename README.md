@@ -9,14 +9,14 @@
 </div>
 
 <!-- MAIN CONTENT TABLE -->
-<table border="0" width="100%">
+<table>
   <tr>
     <!-- LEFT COLUMN: Profile Card -->
     <td width="30%" valign="top" align="center">
       <br />
       
       <!-- AVATAR -->
-      <img src="https://github.com/akshat3410.png" width="180" style="border-radius: 50%;" alt="Avatar" />
+      <img src="https://github.com/akshat3410.png" width="180" alt="Avatar" />
       
       <br />
       <br />
@@ -56,7 +56,7 @@
     <td width="70%" valign="top">
       
       <!-- GREETING SECTION -->
-      <table border="0" width="100%">
+      <table>
         <tr>
           <td width="60%" valign="top">
             <h2>Namaste 🙏 I'm Akshat Soni</h2>
@@ -89,7 +89,7 @@
 
       <p>
         <strong>Core practices:</strong>
-        <span style="color:#9aa6b2">Clean Code</span>, <span style="color:#9aa6b2">TDD</span>, <span style="color:#9aa6b2">API Design</span>, <span style="color:#9aa6b2">Performance</span>, <span style="color:#9aa6b2">Docker</span>
+        Clean Code · TDD · API Design · Performance · Docker
       </p>
       
       <br />
@@ -122,7 +122,7 @@
       
       <!-- GITHUB STATS -->
       <h4>📊 GitHub Stats</h4>
-      <table border="0" width="100%">
+      <table>
         <tr>
           <td width="50%">
             <img src="https://github-readme-stats.vercel.app/api?username=akshat3410&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0d1117" width="100%" />
@@ -151,7 +151,7 @@
       
       <!-- BEST REPOSITORIES -->
       <h4>⭐ Best Repositories</h4>
-      <table border="0" width="100%">
+      <table>
         <tr>
           <td width="50%">
             <a href="https://github.com/akshat3410/akshat3410">
