@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/akshat3410/akshat3410/main/assets/profile.jpg" width="150" alt="Akshat Soni" />
   <br/><br/>
   <p>
-    <b>📍 India</b> · <b>Building the Future, One API at a Time</b>
+    <b>📍 India</b> · <b>Building AI products, end-to-end.</b>
   </p>
   <a href="https://www.linkedin.com/in/akshat-soni-007ak75212/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -38,15 +38,15 @@
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&width=280&lines=Backend+Developer;System+Designer;Problem+Solver" alt="Typing SVG" />
 
-I build **backend systems** and **APIs** that scale. Currently pursuing Computer Science, I focus on turning complex problems into clean, reliable services.
+Building **AI-first products** with a founder mindset. I focus on execution—turning ideas into real, usable products with **long-term impact**.
 
-I'm always exploring new technologies and love diving deep into system design, distributed architectures, and performance optimization.
-
+Currently pursuing Computer Science, I’m deeply curious about **AI**, **startup execution**, and what it takes to go from zero to something that matters.
 <br clear="both"/>
 
 <br/>
 
 <!-- EXPERTISE -->
+
 <h4>What I Work With</h4>
 
 | Domain | Technologies |
@@ -54,7 +54,7 @@ I'm always exploring new technologies and love diving deep into system design, d
 | **Backend** | Python, Django, FastAPI, Node.js |
 | **Systems** | Distributed Systems, Event-driven Architecture |
 | **DevOps** | Docker, CI/CD, Linux |
-| **Databases** | PostgreSQL, MongoDB, Redis |
+| **Databases** | PostgreSQL, MongoDB, Firebase, Supabase |
 
 <br/>
 
@@ -71,7 +71,7 @@ I'm always exploring new technologies and love diving deep into system design, d
   </a>
   &nbsp;
   <a href="https://x.com/akshat_code">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" />
+    <img src="https://cdn.simpleicons.org/x/white" width="40" height="40" alt="X" />
   </a>
   &nbsp;
   <a href="https://github.com/akshat3410">
