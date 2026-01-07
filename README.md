@@ -32,16 +32,6 @@
   </a>
 </div>
 
-<br/>
-
-<!-- ACHIEVEMENTS -->
-<div align="center">
-  <b>Achievements</b><br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=akshat3410&theme=darkhub&no-frame=true&column=4&margin-w=5&margin-h=5" width="60%" />
-</div>
-
-<br/>
-
 ---
 
 <br/>
