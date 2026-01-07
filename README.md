@@ -13,13 +13,16 @@
   <img src="https://raw.githubusercontent.com/akshat3410/akshat3410/main/assets/profile.jpg" width="150" alt="Akshat Soni" />
   <br/><br/>
   <p>
-    <b>📍 India</b> · <b>🎓 CS Student</b> · <b>💼 Open to Opportunities</b>
+    <b>📍 India</b> · <b>Building the Future, One API at a Time</b>
   </p>
-  <a href="https://linkedin.com/in/akshat-soni-3410">
+  <a href="https://www.linkedin.com/in/akshat-soni-007ak75212/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:akshatsoni.jbp@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/akshat_code">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://github.com/akshat3410">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -63,20 +66,16 @@ I'm always exploring new technologies and love diving deep into system design, d
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/akshat-soni-3410">
+  <a href="https://www.linkedin.com/in/akshat-soni-007ak75212/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://discord.com/users/akshat3410">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord" />
+  <a href="https://x.com/akshat_code">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/akshat3410">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://youtube.com/@akshat3410">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" width="40" height="40" alt="YouTube" />
+  <a href="https://github.com/akshat3410">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
 </p>
 
@@ -113,8 +112,8 @@ I'm always exploring new technologies and love diving deep into system design, d
 <h4>Featured Projects</h4>
 
 <p align="center">
-  <a href="https://github.com/akshat3410/akshat3410">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akshat3410&repo=akshat3410&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" alt="akshat3410 repo" />
+  <a href="https://github.com/akshat3410/SkillTrail">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akshat3410&repo=SkillTrail&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" alt="SkillTrail repo" />
   </a>
 </p>
 
