@@ -1,34 +1,28 @@
 <!-- 
-  ✨ GitHub Profile README - Inspired by MASTER-ASH style
-  Theme: Dark with nature aesthetics
+  GitHub Profile README
+  Theme: Dark, Professional, Clean
 -->
 
-<!-- HEADER BANNER -->
+<!-- HEADER WITH AVATAR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=200&text=&fontSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=180&section=header&text=Akshat%20Soni&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20System%20Designer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
-<br/>
-
-<!-- AVATAR & INFO -->
+<!-- PROFILE CARD -->
 <div align="center">
-  <img src="https://github.com/akshat3410.png" width="180" alt="Avatar" />
-  <h2>AKSHAT3410</h2>
-  <p><i>Backend Programmer | Scalable Code</i><br/>Builder • Dreamer • Developer</p>
+  <img src="https://github.com/akshat3410.png" width="150" alt="Akshat Soni" />
+  <br/><br/>
   <p>
-    📍 <b>India</b><br/>
-    🎓 ENGINEERING STUDENT<br/>
-    💼 INTERN/FRESHER<br/>
-    🔗 akshat3410.dev
+    <b>📍 India</b> · <b>🎓 CS Student</b> · <b>💼 Open to Opportunities</b>
   </p>
-</div>
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<div align="center">
   <a href="https://linkedin.com/in/akshat-soni-3410">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akshatsoni.jbp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/akshat3410">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
