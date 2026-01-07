@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Animated SVG for README: rotating focus items and skill chips (SMIL) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="160" viewBox="0 0 820 160" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0f1724" />
+      <stop offset="1" stop-color="#081018" />
+    </linearGradient>
+    <style><![CDATA[
+      .bg{fill:url(#g)}
+      .title{fill:#e6edf3;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial; font-size:16px;font-weight:700}
+      .muted{fill:#9aa6b2;font-size:13px}
+      .role{fill:#58a6ff;font-weight:600;font-size:14px}
+      .chip{fill:#0b1220;stroke:rgba(255,255,255,0.03);stroke-width:1}
+      .chip-text{fill:#9aa6b2;font-size:12px}
+    ]]></style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="820" height="160" rx="10"/>
+
+  <g transform="translate(28,28)">
+    <text class="title" x="0" y="18">Currently exploring</text>
+    <text class="muted" x="180" y="20">— rotating focus</text>
+
+    <!-- Rotating roles: three texts that fade/translate -->
+    <g transform="translate(0,52)">
+      <text class="role" x="0" y="0">Distributed Systems
+        <animate attributeName="y" dur="9s" values="32;0;0;-32;32" repeatCount="indefinite" />
+        <animate attributeName="opacity" dur="9s" values="0;1;1;0;0" repeatCount="indefinite" />
+      </text>
+      <text class="role" x="0" y="32" opacity="0">Event-driven Architectures
+        <animate attributeName="y" dur="9s" values="64;32;32;0;64" repeatCount="indefinite" />
+        <animate attributeName="opacity" dur="9s" values="0;0;1;1;0" repeatCount="indefinite" />
+      </text>
+      <text class="role" x="0" y="64" opacity="0">ML Ops & Automation
+        <animate attributeName="y" dur="9s" values="96;64;64;32;96" repeatCount="indefinite" />
+        <animate attributeName="opacity" dur="9s" values="0;0;0;1;0" repeatCount="indefinite" />
+      </text>
+    </g>
+
+    <!-- Chips -->
+    <g transform="translate(0,112)">
+      <g transform="translate(0,0)">
+        <rect class="chip" x="0" y="-14" width="86" height="28" rx="14">
+          <animate attributeName="opacity" dur="1.2s" values="0;1" begin="0.4s" fill="freeze" />
+        </rect>
+        <text class="chip-text" x="12" y="6">Clean Code</text>
+      </g>
+
+      <g transform="translate(98,0)">
+        <rect class="chip" x="0" y="-14" width="56" height="28" rx="14">
+          <animate attributeName="opacity" dur="1.2s" values="0;1" begin="0.6s" fill="freeze" />
+        </rect>
+        <text class="chip-text" x="10" y="6">TDD</text>
+      </g>
+
+      <g transform="translate(168,0)">
+        <rect class="chip" x="0" y="-14" width="84" height="28" rx="14">
+          <animate attributeName="opacity" dur="1.2s" values="0;1" begin="0.8s" fill="freeze" />
+        </rect>
+        <text class="chip-text" x="12" y="6">API Design</text>
+      </g>
+
+      <g transform="translate(260,0)">
+        <rect class="chip" x="0" y="-14" width="94" height="28" rx="14">
+          <animate attributeName="opacity" dur="1.2s" values="0;1" begin="1s" fill="freeze" />
+        </rect>
+        <text class="chip-text" x="12" y="6">Performance</text>
+      </g>
+
+      <g transform="translate(362,0)">
+        <rect class="chip" x="0" y="-14" width="64" height="28" rx="14">
+          <animate attributeName="opacity" dur="1.2s" values="0;1" begin="1.2s" fill="freeze" />
+        </rect>
+        <text class="chip-text" x="12" y="6">Docker</text>
+      </g>
+    </g>
+  </g>
+</svg>
