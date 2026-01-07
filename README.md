@@ -36,34 +36,33 @@
 
 <br/>
 
-<!-- GREETING -->
-<h2>Namaste 🙏 I'm Akshat Soni</h2>
+<!-- INTRO -->
+<h2>Hey there, I'm Akshat Soni</h2>
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Developer" width="120"/>
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&width=280&lines=Backend+Developer;System+Designer;Problem+Solver" alt="Typing SVG" />
 
-I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills and exploring **Backend Development** and **Machine Learning**. I spend most of my time learning new things & trying to implement them in projects.
+I build **backend systems** and **APIs** that scale. Currently pursuing Computer Science, I focus on turning complex problems into clean, reliable services.
+
+I'm always exploring new technologies and love diving deep into system design, distributed architectures, and performance optimization.
 
 <br clear="both"/>
 
 <br/>
 
-<!-- ABOUT ME -->
-<h4>📌 About Me</h4>
+<!-- EXPERTISE -->
+<h4>What I Work With</h4>
 
-I'm currently pursuing a Bachelor's in Computer Science. I design and build backend systems and APIs — I enjoy turning complex problems into reliable, maintainable services.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akshat3410/akshat3410/main/assets/about-animated.svg" alt="About animation" width="100%" />
-</p>
-
-**Focus areas:** Distributed Systems · Event-driven Architectures · MLOps & Automation
-
-**Core practices:** Clean Code · TDD · API Design · Performance · Docker
+| Domain | Technologies |
+|--------|-------------|
+| **Backend** | Python, Django, FastAPI, Node.js |
+| **Systems** | Distributed Systems, Event-driven Architecture |
+| **DevOps** | Docker, CI/CD, Linux |
+| **Databases** | PostgreSQL, MongoDB, Redis |
 
 <br/>
 
 <!-- CONTACT ME -->
-<h4>📫 Contact Me</h4>
+<h4>Get In Touch</h4>
 
 <p>
   <a href="mailto:akshatsoni.jbp@gmail.com">
@@ -90,7 +89,7 @@ I'm currently pursuing a Bachelor's in Computer Science. I design and build back
 <br/>
 
 <!-- GITHUB STATS -->
-<h4>📊 GitHub Stats</h4>
+<h4>GitHub Stats</h4>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshat3410&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0d1117" width="48%" alt="GitHub Stats" />
@@ -100,7 +99,7 @@ I'm currently pursuing a Bachelor's in Computer Science. I design and build back
 <br/>
 
 <!-- LANGUAGES & TECH -->
-<h4>💻 Languages & tech I most frequently use</h4>
+<h4>Tech Stack</h4>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,dart&theme=dark" alt="Languages" />
@@ -117,7 +116,7 @@ I'm currently pursuing a Bachelor's in Computer Science. I design and build back
 <br/>
 
 <!-- BEST REPOSITORIES -->
-<h4>⭐ Best Repositories</h4>
+<h4>Featured Projects</h4>
 
 <p align="center">
   <a href="https://github.com/akshat3410/akshat3410">
@@ -131,7 +130,7 @@ I'm currently pursuing a Bachelor's in Computer Science. I design and build back
 <br/>
 
 <!-- DAILY READS -->
-<h4>📚 Daily Reads</h4>
+<h4>Resources I Follow</h4>
 
 <p>
   <a href="https://dev.to">
@@ -151,7 +150,7 @@ I'm currently pursuing a Bachelor's in Computer Science. I design and build back
 
 <!-- SUPPORT ME -->
 <div align="center">
-  <h4>☕ Support Me</h4>
+  <h4>Support My Work</h4>
   <a href="https://www.buymeacoffee.com/akshat3410">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
