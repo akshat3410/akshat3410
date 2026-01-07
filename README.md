@@ -10,7 +10,7 @@
 
 <!-- PROFILE CARD -->
 <div align="center">
-  <img src="https://github.com/akshat3410.png" width="150" alt="Akshat Soni" />
+  <img src="https://raw.githubusercontent.com/akshat3410/akshat3410/main/assets/profile.jpg" width="150" alt="Akshat Soni" />
   <br/><br/>
   <p>
     <b>📍 India</b> · <b>🎓 CS Student</b> · <b>💼 Open to Opportunities</b>
