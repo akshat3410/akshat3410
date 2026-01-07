@@ -122,9 +122,6 @@ I'm always exploring new technologies and love diving deep into system design, d
   <a href="https://github.com/akshat3410/akshat3410">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akshat3410&repo=akshat3410&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" alt="akshat3410 repo" />
   </a>
-  <a href="https://github.com/akshat3410/portfolio">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akshat3410&repo=portfolio&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" alt="portfolio repo" />
-  </a>
 </p>
 
 <br/>
@@ -146,17 +143,7 @@ I'm always exploring new technologies and love diving deep into system design, d
   </a>
 </p>
 
-<br/>
 
-<!-- SUPPORT ME -->
-<div align="center">
-  <h4>Support My Work</h4>
-  <a href="https://www.buymeacoffee.com/akshat3410">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</div>
-
-<br/>
 
 ---
 
