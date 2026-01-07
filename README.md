@@ -80,7 +80,7 @@
 
       <!-- Animated about: fallback image for GitHub uses a local SVG asset -->
       <p>
-        <img src="assets/about-animated.svg" alt="About animation" width="100%" />
+        <img src="https://raw.githubusercontent.com/akshat3410/akshat3410/main/assets/about-animated.svg" alt="About animation" width="100%" />
       </p>
 
       <p>
