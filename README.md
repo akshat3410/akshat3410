@@ -103,8 +103,8 @@ I'm currently pursuing a Bachelor's in Computer Science. I design and build back
 <h4>📊 GitHub Stats</h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat3410&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0d1117" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=akshat3410&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshat3410&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0d1117" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=akshat3410&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -131,10 +131,10 @@ I'm currently pursuing a Bachelor's in Computer Science. I design and build back
 
 <p align="center">
   <a href="https://github.com/akshat3410/akshat3410">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat3410&repo=akshat3410&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akshat3410&repo=akshat3410&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" alt="akshat3410 repo" />
   </a>
   <a href="https://github.com/akshat3410/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat3410&repo=portfolio&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akshat3410&repo=portfolio&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" alt="portfolio repo" />
   </a>
 </p>
 
